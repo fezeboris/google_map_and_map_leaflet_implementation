@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -26,6 +27,10 @@
 
 .App-link {
   color: #61dafb;
+}
+.leafletContainer{
+  width: 700px !important;
+  height: 700px !important;
 }
 
 @keyframes App-logo-spin {
